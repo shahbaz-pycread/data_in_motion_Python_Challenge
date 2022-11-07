@@ -29,6 +29,7 @@ is_valid_PIN("") ➞ False
 **Questions**
 
 **1.Given a list of client emails, create a function that takes in the list as an argument and returns a new list with only the domain of each email.
+
       clients = ['brucewayne@gotham.com', 'homer_simpson@springfieldnuclear.com', 'hank_hill@arlenpropane.com', 'petergriffin@pawtucketbrewery.com']**
 
 
